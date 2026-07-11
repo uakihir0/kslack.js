@@ -1,0 +1,15 @@
+{
+  "name": "kslack-all",
+  "version": "0.0.1-SNAPSHOT",
+  "main": "kslack-all.js",
+  "types": "kslack-all.d.ts",
+  "devDependencies": {
+    "typescript": "5.9.3"
+  },
+  "dependencies": {
+    "ws": "8.20.1"
+  },
+  "peerDependencies": {},
+  "optionalDependencies": {},
+  "bundledDependencies": []
+}
